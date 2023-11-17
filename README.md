@@ -9,7 +9,7 @@
 
 <div margin='auto ;' align='center'>
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,react,laravel,bootstrap,jquery,python"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,php,react,laravel,bootstrap,jquery,python"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=vscode,atom,idea,nodejs,mysql,mongodb,netlify,gitlab"/>
   <br/>
