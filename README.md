@@ -1,6 +1,8 @@
 <h2 align="center">Software Developer</h3>
 
-<img style="display: block; margin: auto;" width="40%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<div style="display: flex; justify-content:center;">
+  <img width="40%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
 
 <h3 align="left">
   Based in Morroco 📍
