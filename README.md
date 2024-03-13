@@ -1,8 +1,9 @@
 <h2 align="center">Web Developer</h3>
 
-<div width="fit-content" style="display: flex; justify-content:center;">
-  <img width="70%" align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<div style="display: flex; justify-content: center; width: 100%">
+  <img width="70%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </div>
+
 
 <h3 align="left">
   Based in Morroco 📍
