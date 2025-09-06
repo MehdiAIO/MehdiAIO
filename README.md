@@ -42,7 +42,7 @@
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<div align="center" width="100%">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mehdiaio&theme=onedark&title=-Followers,-Reviews,-Issues&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
