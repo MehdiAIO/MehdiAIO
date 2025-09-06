@@ -21,9 +21,8 @@
   <br/>
 </div>
 
-<p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
