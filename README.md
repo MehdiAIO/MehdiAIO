@@ -21,7 +21,14 @@
   <br/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mehdiaio&theme=onedark&title=-Followers,-Reviews,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mehdiaio&theme=onedark&title=-Followers,-Reviews,-Issues" alt="trophies"/>
+  </a>
+</p>
+
 
 
 
