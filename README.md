@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&title=Repositories,PullRequest,Commits,Experience,rank=S,Stars&row=1&column=6" alt="trophies" />
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="trophies" />
   </a>
 </p>
 
