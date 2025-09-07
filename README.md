@@ -54,7 +54,7 @@
 <table>
 <tr>
 
-<td width="100%">
+<td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?     username=MehdiAIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=C9D1D9" alt="Top Languages" width="100%" />
 </td>
   
