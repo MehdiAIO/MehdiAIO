@@ -50,21 +50,12 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<table>
-<tr>
-
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiAIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=C9D1D9" alt="Top Languages" style="width:100%; max-width:1000px;/>
-
-</td>
-  
-
-
-</tr>
-</table>
+<div style="width: 100%; background-color: #0D1117; padding: 10px; text-align: center;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehdiAIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4444&text_color=C9D1D9" 
+    alt="Top Languages" 
+    style="width: 100%; max-width: 1200px; height: auto;"
+  />
 </div>
 
 ---
